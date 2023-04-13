@@ -3,6 +3,7 @@ import Scratchlabs from "../src/Images/scratchlabs.JPG";
 import twitter from "./Images/twitter.JPG";
 import website from "./Images/website.JPG";
 import discord from "./Images/discord.JPG";
+import Meme from "./Images/meme.JPG";
 
 const links = [
   {
@@ -21,8 +22,13 @@ const links = [
     image: discord,
   },
   {
-    name: "Meme Machine",
+    name: "Meme Dashboard",
     url: "https://meme-maker-rzg7.onrender.com/",
+    image: Meme,
+  },
+  {
+    name: "Scratch Labs",
+    url: "",
     image: Scratchlabs,
   },
 ];
