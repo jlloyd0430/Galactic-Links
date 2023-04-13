@@ -4,6 +4,7 @@ import twitter from "./Images/twitter.JPG";
 import website from "./Images/website.JPG";
 import discord from "./Images/discord.JPG";
 import Meme from "./Images/meme.JPG";
+import token from "./Images/token.JPG";
 
 const links = [
   {
@@ -20,6 +21,11 @@ const links = [
     name: "Discord",
     url: "https://discord.com/invite/gxERuKmCDA",
     image: discord,
+  },
+  {
+    name: "$Scratch token",
+    url: "https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/",
+    image: token,
   },
   {
     name: "Meme Dashboard",
