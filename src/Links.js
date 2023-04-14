@@ -4,7 +4,7 @@ import twitter from "./Images/twitter.JPG";
 import website from "./Images/website.JPG";
 import discord from "./Images/discord.JPG";
 import Meme from "./Images/meme.JPG";
-import token from "./Images/token.JPG";
+import token from "./Images/scratch.JPG";
 
 const links = [
   {
