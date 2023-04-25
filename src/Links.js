@@ -23,19 +23,9 @@ const links = [
     image: discord,
   },
   {
-    name: "$Scratch token",
-    url: "https://usdscratch-gitbook.gitbook.io/scratch-coin-usdscratch/",
-    image: token,
-  },
-  {
     name: "Meme Dashboard",
-    url: "https://meme-maker-rzg7.onrender.com/",
-    image: Meme,
-  },
-  {
-    name: "Scratch Labs",
     url: "",
-    image: Scratchlabs,
+    image: Meme,
   },
 ];
 
