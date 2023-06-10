@@ -6,7 +6,7 @@ import discord from "./Images/discord.JPG";
 import Meme from "./Images/meme.JPG";
 import token from "./Images/scratch.JPG";
 import yarn from "./Images/me.JPG";
-import landing from "./Images/yarnimg.JPG"l;
+import landing from "./Images/yarnimg.JPG";
 
 const links = [
   {
