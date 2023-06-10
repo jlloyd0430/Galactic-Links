@@ -5,6 +5,8 @@ import website from "./Images/website.JPG";
 import discord from "./Images/discord.JPG";
 import Meme from "./Images/meme.JPG";
 import token from "./Images/scratch.JPG";
+import yarn from "./Images/me.JPG";
+import landing from "./Images/yarnimg.JPG"l;
 
 const links = [
   {
@@ -23,9 +25,14 @@ const links = [
     image: discord,
   },
   {
-    name: "Meme Dashboard",
-    url: "",
-    image: Meme,
+    name: "Yarn Landing page",
+    url: "https://app-yarn-solutions.onrender.com",
+    image: landing,
+  },
+   {
+    name: "Yarn twitter",
+    url: "https://www.twitter.com/yarnsolutions",
+    image: yarn,
   },
 ];
 
