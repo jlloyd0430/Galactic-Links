@@ -21,7 +21,7 @@ const links = [
   },
   {
     name: "Discord",
-    url: "https://discord.com/invite/gxERuKmCDA",
+    url: "https://discord.com/invite/S4pMEku2",
     image: discord,
   },
   {
