@@ -7,12 +7,18 @@ import Meme from "./Images/meme.JPG";
 import token from "./Images/scratch.JPG";
 import yarn from "./Images/me.JPG";
 import landing from "./Images/yarnimg.JPG";
+import mint from "./Images/jacob.JPG";
 
 const links = [
   {
     name: "Website",
     url: "https://www.galacticats.xyz",
     image: website,
+  },
+  {
+    name: "Mint",
+    url: "https://mint.galacticats.xyz",
+    image: mint,
   },
   {
     name: "Twitter",
