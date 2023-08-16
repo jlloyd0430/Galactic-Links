@@ -8,6 +8,7 @@ import token from "./Images/scratch.JPG";
 import yarn from "./Images/me.JPG";
 import landing from "./Images/yarnimg.JPG";
 import mint from "./Images/jacob.JPG";
+import litepaper from "./Images/litepaper.JPG"
 
 const links = [
   {
@@ -40,6 +41,11 @@ const links = [
     url: "https://www.twitter.com/yarnsolutions",
     image: yarn,
   },
+   {
+    name: "Litepaper",
+    url: "https://usdscratch-gitbook.gitbook.io/galacticats/",
+    image: litepaper,
+  }
 ];
 
 function Links() {
