@@ -9,6 +9,7 @@ import yarn from "./Images/me.JPG";
 import landing from "./Images/yarnimg.JPG";
 import mint from "./Images/jacob.JPG";
 import litepaper from "./Images/litepaper.JPG"
+import galacticDao from "./Images/GalaxyBall.JPG"
 
 const links = [
   {
@@ -45,8 +46,13 @@ const links = [
     name: "Litepaper",
     url: "https://usdscratch-gitbook.gitbook.io/galacticats/",
     image: litepaper,
-  }
-];
+  },
+   {
+    name: "Galactic Dao",
+    url: "https://galacticdao.xyz/",
+    image: GalacticDao,
+  } 
+    ];
 
 function Links() {
   return (
