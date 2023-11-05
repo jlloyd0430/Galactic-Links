@@ -47,11 +47,6 @@ const links = [
     url: "https://usdscratch-gitbook.gitbook.io/galacticats/",
     image: litepaper,
   },
-   {
-    name: "Galactic Dao",
-    url: "https://galacticdao.xyz/",
-    image: GalacticDao,
-  } 
     ];
 
 function Links() {
