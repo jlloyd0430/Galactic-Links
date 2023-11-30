@@ -34,7 +34,7 @@ const links = [
   },
   {
     name: "Yarn Landing page",
-    url: "https://app-yarn-solutions.onrender.com",
+    url: "https://www.yarnsolutions.xyz",
     image: landing,
   },
    {
