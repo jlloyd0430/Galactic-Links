@@ -18,11 +18,6 @@ const links = [
     image: website,
   },
   {
-    name: "Mint",
-    url: "https://mint.galacticats.xyz",
-    image: mint,
-  },
-  {
     name: "Twitter",
     url: "https://twitter.com/GalacticatsNFT",
     image: twitter,
