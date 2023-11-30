@@ -8,8 +8,8 @@ import token from "./Images/scratch.JPG";
 import yarn from "./Images/me.JPG";
 import landing from "./Images/yarnimg.JPG";
 import mint from "./Images/jacob.JPG";
-import litepaper from "./Images/litepaper.JPG"
-import galacticDao from "./Images/GalaxyBall.JPG"
+import litepaper from "./Images/litepaper.JPG";
+
 
 const links = [
   {
