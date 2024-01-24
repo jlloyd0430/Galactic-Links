@@ -33,8 +33,8 @@ const links = [
     image: landing,
   },
    {
-    name: "Yarn twitter",
-    url: "https://www.twitter.com/yarnsolutions",
+    name: "Blockjobs twitter",
+    url: "https://www.twitter.com/blockjobs_app",
     image: yarn,
   },
    {
