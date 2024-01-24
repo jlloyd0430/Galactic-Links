@@ -28,8 +28,8 @@ const links = [
     image: discord,
   },
   {
-    name: "Yarn Landing page",
-    url: "https://www.yarnsolutions.xyz",
+    name: "Blockjobs landing",
+    url: "http://yarnsolutions.xyz/",
     image: landing,
   },
    {
